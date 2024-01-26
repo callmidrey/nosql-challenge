@@ -3,7 +3,7 @@ This Challenge employed MongoDB to load the data. It was loaded successfully and
 ![Screenshot 2024-01-25 184549](https://github.com/callmidrey/nosql-challenge/assets/142331312/cde464b2-e5ee-42c8-96f5-3904ba92507d)
 
 # RESULTS
-The goal of this challenge was to answer the following questions:
+The goal of this challenge was to answer the following questions of which screenshots of the answers have been attached below each question as per the analysis:
 1. Which establishments have a hygiene score equal to 20?
  ![Screenshot 2024-01-25 185724](https://github.com/callmidrey/nosql-challenge/assets/142331312/82562595-4216-4dce-9d38-5759dbf07de4)
 
@@ -16,4 +16,5 @@ The goal of this challenge was to answer the following questions:
 
 
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
+   
 ![Screenshot 2024-01-25 185851](https://github.com/callmidrey/nosql-challenge/assets/142331312/8f0742ee-b8e8-4501-a886-2cd48ebeb4cb)
